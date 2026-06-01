@@ -6,6 +6,13 @@ A deep learning-powered web application that classifies skin lesion images into 
 
 🔗 Hugging Face Space: https://huggingface.co/spaces/Bibek360/Skin-Disease-Classifier
 
+## Application Preview
+
+### Home Page
+![Home Page](app-home.png)
+
+### Prediction Result
+![Prediction Result](prediction-result.png)
 ## Features
 
 * Upload skin lesion images (JPG, JPEG, PNG)
