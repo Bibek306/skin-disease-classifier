@@ -92,7 +92,17 @@ Skin-Disease-Classifier/
 └── .streamlit/
     └── config.toml
 ```
+## Tech Stack
 
+- Python
+- TensorFlow
+- Keras
+- NumPy
+- Pillow (PIL)
+- Streamlit
+- Docker
+- Hugging Face Spaces
+- 
 ## Disclaimer
 
 This project is intended for educational and research purposes only and should not be used as a substitute for professional medical diagnosis or treatment.
