@@ -9,9 +9,6 @@ MODEL_PATH = os.path.join(
     "skin_cancer_model.keras"
 )
 
-print("MODEL_PATH:", MODEL_PATH)
-print("EXISTS:", os.path.exists(MODEL_PATH))
-
 # Load trained model
 model = tf.keras.models.load_model(MODEL_PATH)
 
